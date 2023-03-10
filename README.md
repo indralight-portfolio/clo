@@ -1,1 +1,2 @@
-# clo
+- Persistence layer 는 EF Core 6 사용
+- DBMS 는 mysql 8.0 사용
